@@ -17,4 +17,7 @@
         "token": "asdf1234"
     }
 /api/hello
+    {
+        
+    }
 /api/titkos
