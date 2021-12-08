@@ -1,0 +1,19 @@
+{
+    "name": "petrik/loginapp",
+    "require": {
+        "slim/slim": "^4.9",
+        "slim/psr7": "^1.5",
+        "illuminate/database": "^8.75"
+    },
+    "autoload": {
+        "psr-4": {
+            "Petrik\\Loginapp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Szoták Simon",
+            "email": "szotak.simon16@gmail.com"
+        }
+    ]
+}
