@@ -20,8 +20,8 @@ $db->addConnection([
 $db->setAsGlobal();
 $db->bootEloquent();
 
-
 $app = AppFactory::create();
+
 
 $routes = require '../src/routes.php';
 $routes($app);
